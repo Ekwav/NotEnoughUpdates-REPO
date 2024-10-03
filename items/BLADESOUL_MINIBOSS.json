@@ -17,6 +17,10 @@
     "https://hypixel-skyblock.fandom.com/wiki/Bladesoul",
     "https://wiki.hypixel.net/Bladesoul"
   ],
+  "x": -296,
+  "y": 83,
+  "z": -517,
+  "island": "crimson_isle",
   "crafttext": "",
   "recipes": [
     {
@@ -48,6 +52,10 @@
         {
           "id": "RAGNAROCK_AXE:1",
           "chance": "0.5%"
+        },
+        {
+          "id": "DYE_CYCLAMEN",
+          "chance": "0.0004%"
         }
       ]
     }

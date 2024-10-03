@@ -123,7 +123,8 @@
         "REFINED_MINERAL",
         "GLACITE",
         "UMBER",
-        "TUNGSTEN"
+        "TUNGSTEN",
+        "GLOSSY_GEMSTONE"
       ]
     },
     "Enchanted Mining": {
@@ -269,7 +270,8 @@
         "TIGER_SHARK_TOOTH",
         "CHUM",
         "GLOWING_MUSHROOM",
-        "AGARIMOO_TONGUE"
+        "AGARIMOO_TONGUE",
+        "WORM_MEMBRANE"
       ]
     },
     "Enchanted Fishing": {
@@ -410,7 +412,9 @@
         "PLASMA",
         "SORROW",
         "BIOFUEL",
-        "OIL_BARREL"
+        "OIL_BARREL",
+        "UMBER_KEY",
+        "TUNGSTEN_KEY"
       ]
     },
     "Slayer": {
@@ -520,7 +524,8 @@
         "DUNG",
         "CHEESE_FUEL",
         "PLANT_MATTER",
-        "JACOBS_TICKET"
+        "JACOBS_TICKET",
+        "FINE_FLOUR"
       ]
     },
     "Flower": {
@@ -589,6 +594,35 @@
     "Rune": {
       "item": "RUNE_SACK",
       "contents": [
+      ]
+    },
+    "Events": {
+      "item": "LARGE_EVENTS_SACK",
+      "contents": [
+        "ANCIENT_CLAW",
+        "BLUE_SHARK_TOOTH",
+        "CARNIVAL_TICKET",
+        "DARK_CANDY",
+        "ECTOPLASM",
+        "ENCHANTED_SHARK_FIN",
+        "GLACIAL_FRAGMENT",
+        "GLOSSY_GEMSTONE",
+        "GREEN_CANDY",
+        "GRIFFIN_FEATHER",
+        "BLUE_ICE_HUNK",
+        "ICE_HUNK",
+        "NURSE_SHARK_TOOTH",
+        "PARTY_GIFT",
+        "PUMPKIN_GUTS",
+        "PURPLE_CANDY",
+        "REFINED_MINERAL",
+        "SHARK_FIN",
+        "SPOOKY_SHARD",
+        "TIGER_SHARK_TOOTH",
+        "WEREWOLF_SKIN",
+        "WHITE_GIFT",
+        "GREEN_GIFT",
+        "RED_GIFT"
       ]
     }
   }

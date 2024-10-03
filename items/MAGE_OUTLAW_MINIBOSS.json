@@ -16,6 +16,10 @@
     "https://hypixel-skyblock.fandom.com/wiki/Mage_Outlaw",
     "https://wiki.hypixel.net/Mage_Outlaw"
   ],
+  "x": -180,
+  "y": 106,
+  "z": -859,
+  "island": "crimson_isle",
   "crafttext": "",
   "recipes": [
     {
@@ -51,6 +55,10 @@
         {
           "id": "WAND_OF_STRENGTH",
           "chance": "0.5%"
+        },
+        {
+          "id": "DYE_CYCLAMEN",
+          "chance": "0.0004%"
         }
       ]
     }
